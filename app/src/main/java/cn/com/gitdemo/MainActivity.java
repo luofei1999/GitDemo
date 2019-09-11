@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //IDOFSSSSSSSSSSDSFASDFASDFADSFASDFAS
+        //IDOFSSSSSSSSSSDSFASDFASDFADSFASDFAS
+        //IDOFSSSSSSSSSSDSFASDFASDFADSFASDFAS
+        //IDOFSSSSSSSSSSDSFASDFASDFADSFASDFAS
 
         btn1 = findViewById(R.id.btn_1);
 
@@ -39,6 +42,12 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "尹罗飞2", Toast.LENGTH_SHORT).show();
             }
         });
+
+
+        //dfgsdfgrthyturytjrughnn
+
+
+//        232222
 
     }
 }
